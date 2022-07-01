@@ -1,0 +1,283 @@
+,suburbs,is_beach
+0,Baulkham Hills (East),0
+1,Baulkham Hills (West) - Bella Vista,0
+2,Glenhaven,0
+3,West Pennant Hills,0
+4,Castle Hill - Central,0
+5,Castle Hill - East,0
+6,Castle Hill - North,0
+7,Castle Hill - South,0
+8,Castle Hill - West,0
+9,Cherrybrook,0
+10,Kellyville,0
+11,Dural - Kenthurst - Wisemans Ferry,0
+12,Galston - Laughtondale,0
+13,Bilpin - Colo - St Albans,0
+14,Kurrajong Heights - Ebenezer,0
+15,Pitt Town - McGraths Hill,0
+16,Rouse Hill - Beaumont Hills,0
+17,Blacktown (East) - Kings Park,0
+18,Blacktown (North) - Marayong,0
+19,Doonside - Woodcroft,0
+20,Lalor Park - Kings Langley,0
+21,Seven Hills - Toongabbie,0
+22,Blacktown (South),0
+23,Blacktown (West),0
+24,Glenwood,0
+25,Parklea - Kellyville Ridge,0
+26,Riverstone - Marsden Park,0
+27,Acacia Gardens,0
+28,Quakers Hill,0
+29,Bidwill - Hebersham - Emerton,0
+30,Glendenning - Dean Park,0
+31,Hassall Grove - Plumpton,0
+32,Lethbridge Park - Tregear,0
+33,Mount Druitt - Whalan,0
+34,Prospect Reservoir,0
+35,Rooty Hill - Minchinbury,0
+36,Banksmeadow,1
+37,Botany,1
+38,Mascot - Eastlakes,0
+39,Pagewood - Hillsdale - Daceyville,0
+40,Port Botany Industrial,1
+41,Sydney Airport,1
+42,Marrickville,0
+43,Petersham - Stanmore,0
+44,Sydenham - Tempe - St Peters,0
+45,Darlinghurst,0
+46,Erskineville - Alexandria,0
+47,Glebe - Forest Lodge,0
+48,Newtown - Camperdown - Darlington,0
+49,Potts Point - Woolloomooloo,1
+50,Pyrmont - Ultimo,0
+51,Redfern - Chippendale,0
+52,Surry Hills,0
+53,Sydney - Haymarket - The Rocks,1
+54,Waterloo - Beaconsfield,0
+55,Bondi - Tamarama - Bronte,1
+56,Bondi Beach - North Bondi,1
+57,Bondi Junction - Waverly,0
+58,Centennial Park,0
+59,Double Bay - Bellevue Hill,1
+60,Dover Heights,1
+61,Paddington - Moore Park,0
+62,Rose Bay - Vaucluse - Watsons Bay,1
+63,Woollahra,0
+64,Coogee - Clovelly,1
+65,Malabar - La Perouse - Chifley,1
+66,Kensington (NSW),0
+67,Kingsford,0
+68,Maroubra - North,1
+69,Maroubra - South,1
+70,Maroubra - West,1
+71,Randwick - North,0
+72,Randwick - South,0
+73,Bass Hill - Georges Hall,0
+74,Chullora,0
+75,Condell Park,0
+76,Greenacre - Mount Lewis,0
+77,Padstow,0
+78,Panania - Milperra - Picnic Point,0
+79,Revesby,0
+80,Yagoona - Birrong,0
+81,Bankstown - North,0
+82,Bankstown - South,0
+83,Belmore - Belfield,0
+84,Canterbury (South) - Campsie,0
+85,Kingsgrove (North) - Earlwood,0
+86,Punchbowl,0
+87,Roselands,0
+88,Lakemba,0
+89,Wiley Park,0
+90,Hurstville,0
+91,Mortdale - Penshurst,0
+92,Narwee - Beverly Hills,0
+93,Oatley - Hurstville Grove,0
+94,Peakhurst - Lugarno,0
+95,Riverwood,0
+96,South Hurstville - Blakehurst,0
+97,Arncliffe - Bardwell Valley,0
+98,Bexley,0
+99,Kingsgrove (South) - Bardwell Park,0
+100,Kogarah,0
+101,Kogarah Bay - Carlton - Allawah,1
+102,Monterey - Brighton-le-Sands - Kyeemagh,1
+103,Rockdale - Banksia,0
+104,Sans Souci - Ramsgate,1
+105,Concord - Mortlake - Cabarita,0
+106,Concord West - North Strathfield,0
+107,Drummoyne - Rodd Point,0
+108,Five Dock - Abbotsford,0
+109,Balmain,1
+110,Leichhardt - Annandale,1
+111,Lilyfield - Rozelle,1
+112,Ashfield,0
+113,Burwood - Croydon,0
+114,Canterbury (North) - Ashbury,0
+115,Croydon Park - Enfield,0
+116,Dulwich Hill - Lewisham,0
+117,Haberfield - Summer Hill,0
+118,Homebush,0
+119,Strathfield,0
+120,Strathfield South,0
+121,Chatswood (East) - Artarmon,0
+122,Chatswood (West) - Lane Cove North,0
+123,Lane Cove - Greenwich,1
+124,St Leonards - Naremburn,0
+125,Willoughby - Castle Cove - Northbridge,1
+126,Asquith - Mount Colah,0
+127,Berowra - Brooklyn - Cowan,0
+128,Normanhurst - Thornleigh - Westleigh,0
+129,Hornsby - East,0
+130,Hornsby - West,0
+131,Waitara - Wahroonga (West),0
+132,Gordon - Killara,0
+133,Lindfield - Roseville,0
+134,Pymble,0
+135,St Ives,0
+136,Turramurra,0
+137,Wahroonga (East) - Warrawee,0
+138,Cremorne - Cammeray,1
+139,Crows Nest - Waverton,1
+140,Mosman,1
+141,Neutral Bay - Kirribilli,1
+142,North Sydney - Lavender Bay,1
+143,Balgowlah - Clontarf - Seaforth,1
+144,Manly - Fairlight,1
+145,Avalon - Palm Beach,1
+146,Bayview - Elanora Heights,0
+147,Newport - Bilgola,1
+148,Warriewood - Mona Vale,1
+149,Beacon Hill - Narraweena,0
+150,Cromer,0
+151,Dee Why - North Curl Curl,1
+152,Forestville - Killarney Heights,1
+153,Frenchs Forest - Belrose,0
+154,Freshwater - Brookvale,1
+155,Manly Vale - Allambie Heights,0
+156,Narrabeen - Collaroy,1
+157,Terrey Hills - Duffys Forest,0
+158,Camden - Ellis Lane,0
+159,Elderslie - Harrington Park,0
+160,Mount Annan - Currans Hill,0
+161,Bradbury - Wedderburn,0
+162,Campbelltown - Woodbine,0
+163,Claymore - Eagle Vale - Raby,0
+164,Holsworthy Military Area,0
+165,Ingleburn - Denham Court,0
+166,Leumeah - Minto Heights,0
+167,Macquarie Fields - Glenfield,0
+168,Minto - St Andrews,0
+169,Rosemeadow - Glen Alpine,0
+170,Bargo,0
+171,Douglas Park - Appin,0
+172,Picton - Tahmoor - Buxton,0
+173,The Oaks - Oakdale,0
+174,Blackheath - Megalong Valley,0
+175,Blaxland - Warrimoo - Lapstone,0
+176,Blue Mountains - North,0
+177,Katoomba - Leura,0
+178,Lawson - Hazelbrook - Linden,0
+179,Springwood - Winmalee,0
+180,Wentworth Falls,0
+181,Blue Mountains - South,0
+182,Cambridge Park,0
+183,Castlereagh - Cranebrook,0
+184,Emu Plains - Leonay,0
+185,Glenmore Park - Regentville,0
+186,Jamisontown - South Penrith,0
+187,Kingswood - Werrington,0
+188,Mulgoa - Luddenham - Orchard Hills,0
+189,Penrith,0
+190,Warragamba - Silverdale,0
+191,Richmond - Clarendon,0
+192,Windsor - Bligh Park,0
+193,Yarramundi - Londonderry,0
+194,Erskine Park,0
+195,St Clair,0
+196,Colyton - Oxley Park,0
+197,St Marys - North St Marys,0
+198,Homebush Bay - Silverwater,0
+199,Rookwood Cemetery,0
+200,Auburn - Central,0
+201,Auburn - North,0
+202,Auburn - South,0
+203,Berala,0
+204,Lidcombe,0
+205,Regents Park,0
+206,Carlingford,0
+207,Ermington - Rydalmere,0
+208,Oatlands - Dundas Valley,0
+209,Chester Hill - Sefton,0
+210,Fairfield - East,0
+211,Granville - Clyde,0
+212,Greystanes - Pemulwuy,0
+213,Guildford - South Granville,0
+214,Guildford West - Merrylands West,0
+215,Merrylands - Holroyd,0
+216,Smithfield Industrial,0
+217,Yennora Industrial,0
+218,North Parramatta,0
+219,North Rocks,0
+220,Northmead,0
+221,Parramatta - Rosehill,0
+222,Toongabbie - Constitution Hill,0
+223,Winston Hills,0
+224,Pendle Hill - Girraween,0
+225,Wentworthville - Westmead,0
+226,Epping - North Epping,0
+227,Pennant Hills - Cheltenham,0
+228,Eastwood - Denistone,0
+229,Gladesville - Huntleys Point,1
+230,Hunters Hill - Woolwich,0
+231,Macquarie Park - Marsfield,0
+232,North Ryde - East Ryde,0
+233,West Ryde - Meadowbank,0
+234,Putney,1
+235,Ryde,0
+236,Ashcroft - Busby - Miller,0
+237,Austral - Greendale,0
+238,Cobbitty - Leppington,0
+239,Badgerys Creek,0
+240,Cecil Hills,0
+241,Green Valley,0
+242,Hinchinbrook,0
+243,Hoxton Park - Carnes Hill - Horningsea Park,0
+244,West Hoxton - Middleton Grange,0
+245,Bonnyrigg Heights - Bonnyrigg,0
+246,Bossley Park - Abbotsbury,0
+247,Cabramatta - Lansvale,0
+248,Cabramatta West - Mount Pritchard,0
+249,Canley Vale - Canley Heights,0
+250,Edensor Park,0
+251,Fairfield,0
+252,Fairfield - West,0
+253,Greenfield Park - Prairiewood,0
+254,Horsley Park - Kemps Creek,0
+255,Smithfield - Wetherill Park,0
+256,St Johns Park - Wakeley,0
+257,Wetherill Park Industrial,0
+258,Casula,0
+259,Chipping Norton - Moorebank,0
+260,Holsworthy - Wattle Grove,0
+261,Liverpool,0
+262,Lurnea - Cartwright,0
+263,Prestons - Edmondson Park,0
+264,Warwick Farm,0
+265,Gymea - Grays Point,1
+266,Miranda - Yowie Bay,1
+267,Sylvania - Taren Point,1
+268,Caringbah,1
+269,Caringbah South,1
+270,Cronulla - Kurnell - Bundeena,1
+271,Lilli Pilli - Port Hacking - Dolans Bay,1
+272,Woolaware - Burraneer,1
+273,Heathcote - Waterfall,0
+274,Illawong - Alfords Point,0
+275,Menai - Lucas Heights - Woronora,0
+276,Oyster Bay - Como - Jannali,0
+277,Royal National Park,1
+278,Sutherland - Kirrawee,0
+279,Engadine,0
+280,Loftus - Yarrawarrah,0
+281,Woronora Heights,0
